@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Prompt:wght@400;500;600;700;800&display=swap');
+
+:root {
+    /* cores */
+    --gunmetal: #233337;
+    --outer-space: #3B494C;
+    --paynes-gray: #546164;
+    --white-smoke: #F5F5F5;
+    --jade: #0DAB76;
+    
+    /* fontes */
+    --primary-font: 'Prompt', sans-serif;
+    --secondary-font: 'IBM Plex Sans', sans-serif;
+}
